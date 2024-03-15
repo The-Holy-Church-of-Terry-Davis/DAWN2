@@ -6,9 +6,9 @@ public class WebServer
 {
     public WebServerConfig Config { get; set; }
 
-    internal Dictionary<string, Action> mappings { get; set; }
-    internal HttpListener listener { get; set; }
-    internal HttpClient client { get; set; }
+    internal Dictionary<string, Action> Mappings { get; set; }
+    internal HttpListener Listener { get; set; }
+    internal HttpClient Client { get; set; }
     
     public WebServer(WebServerConfig config)
     {
