@@ -1,3 +1,3 @@
-﻿namespace src.Types;
+﻿namespace DAWN2.Types;
 
 public record WebServerConfig();

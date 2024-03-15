@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src", "src\src.csproj", "{25DDAA2B-0231-4BE8-A832-578B80812C2F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAWN2", "DAWN2\DAWN2.csproj", "{25DDAA2B-0231-4BE8-A832-578B80812C2F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tester", "tester\tester.csproj", "{70B73467-5371-465B-8DD5-52F6AC480F4D}"
 EndProject

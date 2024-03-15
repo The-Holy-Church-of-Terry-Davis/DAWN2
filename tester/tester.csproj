@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\src\src.csproj" />
+    <ProjectReference Include="..\DAWN2\DAWN2.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

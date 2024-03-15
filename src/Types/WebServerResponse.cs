@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace src.Types;
+namespace DAWN2.Types;
 
 public class WebServerResponse
 {
